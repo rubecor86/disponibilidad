@@ -1,0 +1,3 @@
+[submodule "energia"]
+	path = energia
+	url = /var/www/html/git/energia
